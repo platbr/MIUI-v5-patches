@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ext_media_mountable_notification_message">Open external media using File Explorer</string>
+    <string name="ext_media_mountable_notification_title">USB storage connected</string>
+	<string name="ext_media_safe_remove">Safely remove</string>
+	<string name="toast_rotation_locked">Screen locked to landscape mode</string>
+</resources>
